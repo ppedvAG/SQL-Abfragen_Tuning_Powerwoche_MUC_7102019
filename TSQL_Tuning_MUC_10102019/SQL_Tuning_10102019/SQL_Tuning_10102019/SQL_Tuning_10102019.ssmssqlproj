@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL_Tuning_10102019">
+  <Items>
+    <LogicalFolder Name="Verbindungen" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="BOOM:BOOM\Boss">
+          <Created>2019-10-10T09:21:42.8903209+02:00</Created>
+          <Type>SQL</Type>
+          <Server>BOOM</Server>
+          <UserName />
+          <Authentication>Windows-Authentifizierung</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Abfrage</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Abfragen" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="0001_DBDesign.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0001_DBDesign.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0001_Einstiegsaufgaben.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0001_Einstiegsaufgaben.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0002_Sichten.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0002_Sichten.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0003_Seiten.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0003_Seiten.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0004_.Salamitaktik.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0004_.Salamitaktik.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0005_MAXDOP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0005_MAXDOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0006_Messungen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0006_Messungen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0007_Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0008_Wait_Stats.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0008_Wait_Stats.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Fehlende Indizes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Fehlende Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="IO Perf.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>IO Perf.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Logfile VLF.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Logfile VLF.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Messen System generell.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Messen System generell.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ola Hallengren.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Ola Hallengren.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Pefmon HDD.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Pefmon HDD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Pläne im RAM.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Pläne im RAM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Planwiederholung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Planwiederholung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_Blitz.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_Blitz.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzCache.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_BlitzCache.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzFirst.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_BlitzFirst.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzIndex.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_BlitzIndex.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzWho.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_BlitzWho.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Sperren und Transaktionen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Sperren und Transaktionen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server 2017 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQL Server 2017 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Teueste Abfragen nach IO.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Teueste Abfragen nach IO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Waitstats.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Waitstats.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="Clustered Index 1.pdf">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Clustered Index 1.pdf</FullPath>
+        </FileNode>
+        <FileNode Name="Index.pdf">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Index.pdf</FullPath>
+        </FileNode>
+        <FileNode Name="Indizes.pdf">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Indizes.pdf</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
